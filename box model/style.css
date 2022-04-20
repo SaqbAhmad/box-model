@@ -1,0 +1,37 @@
+
+p{
+     /* Dimensions */
+  width: 200px;
+   /* height:100px; */
+
+
+
+
+
+     /* Border */
+     border:3px solid black;
+      /* margin: 50px;  */
+   /*  margin-top: 20px;
+     margin-right: 40px;
+     margin-bottom: 30px;
+     margin-left: 50px;*/
+     /* hum clock wise bhi likh skte like top, right,
+       bottom, left */
+      /* margin:20px 30px 40px 50px; */
+      /* margin ko hum top, bottom and right and left
+         dono me likh skte hai. */
+       /*  margin: 30px 40px;*/
+       /* top and down pr 30 px and right and left pr
+          auto ; auto means left and right dono me
+          equal margin lega */
+           margin: 10px auto;
+          /* margin:auto 30px;*/ /* this is not allowed*/
+          /* padding */
+         /* padding: 20px 30px 40px 50px;*/
+         /* padding-top:30px ;
+         padding-right: 40;
+         padding-bottom: 50px;
+         padding-left: 50px; */
+          padding: 50px 50px; 
+
+}
